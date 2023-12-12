@@ -1,0 +1,9 @@
+git init
+nano demo.text
+git status
+git add .
+git status
+git commit -m "msg"
+git global config user.name 
+git global config user.email
+git push b2
