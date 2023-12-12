@@ -1,0 +1,301 @@
+    1  sudo apt-get update
+    2  git init
+    3  sudo apt-get update
+    4  sudo apt-get install
+    5  sudo apt-get install git
+    6  git init
+    7  git config --global user.name "sveri"
+    8  git config --global user.email "aishrohite@gmail.com"
+    9  cd addition.c
+   10  mkdir b1
+   11  ls
+   12  git init
+   13  ls -la
+   14  ls
+   15  cd b1
+   16  vim addition.c
+   17  vi addition.c
+   18  nano addition.c
+   19  git add addition.c
+   20  git commit -m "first commit" addition.c
+   21  ls
+   22  git remote add gh https://github.com/Aishwaryar215/b1.git
+   23  git push gh master
+   24  git --version
+   25  mkdir <A1>
+   26  mkdir <A1> cd <A1>
+   27  nkdir <A1> cd <A1>
+   28  mkdir <A1> cd <A1>
+   29  git config --global user.name"rutujamane001"
+   30  git config --global user.email"rutujasmane123@gmail.com"
+   31  git status
+   32  git add hello.c
+   33  git status
+   34  git add hello.text
+   35  git status
+   36  git commit -m "v1"
+   37  git status
+   38  git remote add gh https://github.com/rutujamane001/A1.git
+   39  git remote add th https://github.com/rutujamane001/A1.git
+   40  git push th master
+   41  git --version
+   42  sudo apt-get update
+   43  mkdir projecta9
+   44  cd projecta9
+   45  ls
+   46  ls -la
+   47  git init
+   48  ls -la
+   49  config --global user.name "Chetan Khatal"
+   50  git config --global user.name "Chetan Khatal"
+   51  git config --global user.email "harshmm@gmail.com"
+   52  ls
+   53  git status
+   54  git add h1.html
+   55  git status
+   56  nano first.txt
+   57  git status
+   58  git add.
+   59  git add .
+   60  git status
+   61  nano first.txt
+   62  git status
+   63  git add .
+   64  git status
+   65  delete
+   66  delete all
+   67  clear
+   68  exit
+   69  ls
+   70  cd projectb1
+   71  git --version
+   72  SUDO APT -GET UPDATE
+   73  GIT --VERSION
+   74  git  --version
+   75  sudo apt update
+   76  mkdir projectb1
+   77  cd projectb1
+   78  ls -la
+   79  git staus
+   80  git config --global user.name "Aishwaryar215"
+   81  git config --global user.email "aishrohite@gmail.com"
+   82  git staus
+   83  git status
+   84  nano index.html
+   85  git.
+   86  git status
+   87  git add index.html
+   88  git status
+   89  nano login.html
+   90  git add.
+   91  git add .
+   92  git status
+   93  git add .
+   94  git status
+   95  git  commit -m "second commit"
+   96  git log
+   97  cd projectb1
+   98  git init
+   99  git status
+  100  git init
+  101  git config --global user.email "aishrohite@gmail.com"
+  102  git init
+  103  nano login.html
+  104  git status
+  105  git add .
+  106  git status
+  107  git config --global user.name "Aishwaryar215"
+  108  git config --global user.email "aishrohite@gmail.com"
+  109  nano login.html
+  110  git status
+  111  git config --global user.name "Aishwaryar215"
+  112  git config --global user.email "aishrohite@gmail.com"
+  113  git init
+  114  mkdir pratical1
+  115  cd pratical1
+  116  git status
+  117  git add .
+  118  git status
+  119  nano login.html
+  120  git status
+  121  git add .
+  122  git status
+  123  git config --global user.name "Aishwaryar215"
+  124  git config --global user.email "aishrohite@gmail.com"
+  125  git status
+  126  git config --global user.name "Aishwaryar215"
+  127  git config --global user.email "aishrohite@gmail.com"
+  128  git status
+  129  nano index.html
+  130  git status
+  131  git add .
+  132  git status
+  133  git log
+  134  clear
+  135  mkdir project
+  136  cd project
+  137  git init
+  138  git remote add batchb1 https://github.com/Pranali26p/batchb1.git
+  139  git push batchb1 master
+  140  git remote add batchb1 https://github.com/Pranali26p/batchb1.git
+  141  git push batchb1 master
+  142  git remote add batchb1 https://github.com/Pranali26p/batchb1.git
+  143  git push batchb1 master
+  144  ls
+  145  git status
+  146  git pull https://github.com/Pranali26p/batchb1.git
+  147  ls
+  148  nano index.html
+  149  git status
+  150  git add .
+  151  git commit -m "third commit"
+  152  git log
+  153  git push batchb1 master
+  154  git log
+  155  git push batchb1 master
+  156  puthon3 --version
+  157  sudo apt update
+  158  sudo apt install python3
+  159  sudo apt install python3 pip3
+  160  sudo apt install python3-pip
+  161  mkdir pratical2
+  162  cd pratical2
+  163  git init
+  164  git config --global  user .name "aishrohite@gmail.com"
+  165  mkdir pratical1
+  166  cd pratical1
+  167  git init
+  168  git status
+  169  git config --global user.name"Aishwaryar21"
+  170  git config --global user.email"aishrohite@gmail.com"
+  171  git status
+  172  mkdir prati2
+  173  cd prati2
+  174  git status
+  175  git config --global user.name"Aishwaryar21"
+  176  git config --global user.email"aishrohite@gmail.com"
+  177  git status
+  178  git add .
+  179  git status
+  180  nano login .html
+  181  git status
+  182  index.html
+  183  login
+  184  git status
+  185  git commit -m "v1"
+  186  git log
+  187  git remote add prati2
+  188  git remote  add prati2 "https://github.com/Aishwaryar215/pratical1.git"
+  189  git push prati2
+  190  git remote add prati2 https://github.com/Aishwaryar215/b2.git
+  191  git remote add https://github.com/Aishwaryar215/b2.git 
+  192  git push prati2 master
+  193  git log
+  194  git remote add https://github.com/Aishwaryar215/b2.git 
+  195  git push prati2 master
+  196  mkdir pratical
+  197  cd pratical
+  198  git status
+  199  git add .
+  200  git status
+  201  nano home.html
+  202  git add .
+  203  nano home .html
+  204  git status
+  205  git add .
+  206  git status
+  207  cd b11
+  208  git init
+  209  nano 1.txt
+  210  git status
+  211  git remote add s1 https://github.com/Aishwaryar215/b11.git
+  212  git commit -m "intial commit"
+  213  git branch
+  214  git push s1
+  215  nano 2.txt
+  216  git add.
+  217  git add .
+  218  git status
+  219  git push s1
+  220  git add .
+  221  git status
+  222  git commit -m "second commit"
+  223  git push s1
+  224  mkdir p1
+  225  cd p1
+  226  git status
+  227  mkdir b11
+  228  mkdir bb1
+  229  cd bb1
+  230  git status
+  231  git init
+  232  cd bbb1
+  233  git status
+  234  git push fle1.txt
+  235  git push file1.txt
+  236  cd 1.text
+  237  cd 1.txt
+  238  git status
+  239  git add .
+  240  git commit -m "v1"
+  241  git log
+  242  git clone ttps://gitlab.com/a7960137/A.git
+  243  git remote add https://gitlab.com/a7960137/A.git
+  244  git remote add g1 https://gitlab.com/a7960137/A.git
+  245  git push g1
+  246  git remote add g1 https://gitlab.com/a7960137/A.git
+  247  git push g1
+  248  git add .
+  249  git status
+  250  nano 3.txt
+  251  git add .
+  252  git status
+  253  git commit -m "V1"
+  254  git log
+  255  nano 4.txt
+  256  git add .
+  257  git commit -m "V2"
+  258  git log
+  259  git push g1
+  260  ls
+  261  git log
+  262  git push g1
+  263  mkdir z1
+  264  cd z1
+  265  gitstatus
+  266  git status
+  267  git add .
+  268  git status
+  269  git log
+  270  git add .
+  271  git commit -m "v2"
+  272  git log
+  273  ls
+  274  git remote add git1 https://gitlab.com/a7960137/b1.git
+  275  git push git1
+  276  git clonehttps://gitlab.com/a7960137/b1.git
+  277  git clone https://gitlab.com/a7960137/b1.git
+  278  git clone https://gitlab.com/a7960137/A.git
+  279  git clone https://gitlab.com/a7960137/pratical1.git
+  280  ls
+  281  git clone https://gitlab.com/a7960137/pratical1.git
+  282  git status
+  283  nano 1.txt
+  284  git status
+  285  git init
+  286  ls
+  287  git log
+  288  git add .
+  289  git status
+  290  git add .
+  291  git commit -m " v2"
+  292  git log
+  293  git push g1
+  294  ls
+  295  git branch
+  296  git branch "ar"
+  297  git ar
+  298  mysql -u root
+  299  mysql -u root -p
+  300  cd
+  301  history > command.txt
