@@ -7,3 +7,6 @@ git commit -m "msg"
 git global config user.name 
 git global config user.email
 git push b2
+
+
+
